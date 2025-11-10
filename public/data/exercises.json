@@ -1,0 +1,592 @@
+{
+    "videos": {
+        "Tre-i-rad-staffett": "A7r6yCpmSrA",
+        "Korta Stegringslopp": "A7r6yCpmSrA",
+        "Tennsoldaten": "A7r6yCpmSrA",
+        "Månstegshopp": "A7r6yCpmSrA",
+        "Stafettlöpning": "A7r6yCpmSrA",
+        "Roliga koordinationslekar": "A7r6yCpmSrA",
+        "Kortdistanslöpning": "A7r6yCpmSrA",
+        "Lekfulla sprintlopp": "A7r6yCpmSrA",
+        "Hinderbana": "A7r6yCpmSrA",
+        "Tagg-lekar": "A7r6yCpmSrA",
+        "Kortdistanslöpning med vändningar": "-O9H15yVc8s",
+        "Lekfulla snabbhetsövningar": "-O9H15yVc8s",
+        "Balansövningar": "-O9H15yVc8s",
+        "Tekniklöpning": "-O9H15yVc8s",
+        "Korta accelerationer": "-O9H15yVc8s",
+        "Sprintstarter": "-O9H15yVc8s",
+        "Stegringslopp": "-O9H15yVc8s",
+        "Lilla hjulet": "-O9H15yVc8s",
+        "A-skipp": "-O9H15yVc8s"
+    },
+    "Sprint": {
+        "7-9": {
+            "1": [
+                "Tre-i-rad-staffett",
+                "Korta Stegringslopp",
+                "Tennsoldaten",
+                "Månstegshopp",
+                "Pepparkakskull"
+            ],
+            "2": [
+                "Stafettlöpning",
+                "Roliga koordinationslekar",
+                "Kortdistanslöpning",
+                "Lekfulla sprintlopp"
+            ],
+            "3": [
+                "Hinderbana",
+                "Tagg-lekar",
+                "Kortdistanslöpning med vändningar",
+                "Lekfulla snabbhetsövningar"
+            ],
+            "4": [
+                "Balansövningar",
+                "Tekniklöpning",
+                "Korta accelerationer",
+                "Lekfulla sprintlopp"
+            ]
+        },
+        "10-12": {
+            "1": [
+                "Tennsoldaten",
+                "Sprintstarter",
+                "Stegringslopp",
+                "Månstegshopp",
+                "Lilla hjulet",
+                "A-skipp"
+            ],
+            "2": [
+                "Knälyftslöpning över koner",
+                "Benskiften",
+                "Rytmiska stegringslopp",
+                "Rytmlöpning i rockringar",
+                "Baklänges knälyft",
+                "Löpning med pinne"
+            ],
+            "3": [
+                "Sprint uppförsbacke",
+                "Vristhopp -> Löpning över koner",
+                "Reaktionsstarter från sittande",
+                "Accelerationer från olika positioner",
+                "B-skipp"
+            ],
+            "4": [
+                "Blockstart med kommando",
+                "Stående start med kommando",
+                "Reaktionsstarter från olika positioner",
+                "Flygande 20-meter",
+                "60-meterssprint"
+            ]
+        },
+        "13-15": {
+            "1": [
+                "Blockstarter",
+                "Maximala sprintlopp",
+                "Accelerationsträning",
+                "Reaktionsstarter"
+            ],
+            "2": [
+                "Plyometriska övningar",
+                "Sprintfaser",
+                "Kraftutveckling",
+                "Explosivitetsträning"
+            ],
+            "3": [
+                "Snabbhetsuthållighet",
+                "Kurvsprint",
+                "Intervallträning",
+                "Tempolöpning"
+            ],
+            "4": [
+                "Teatriska Höftlyft",
+                "Sprintteknikanalys",
+                "Videoanalys",
+                "Teknikträning"
+            ]
+        }
+    },
+    "Häck": {
+        "7-9": {
+            "1": [
+                "Grundläggande hopp över låga hinder",
+                "Lekfulla häckhopp",
+                "Hopp över koner",
+                "Enkla häckövningar"
+            ],
+            "2": [
+                "Hopp över låga häckar",
+                "Koordinationsövningar med häckar",
+                "Lekfulla häcklöpningar",
+                "Hoppteknikträning"
+            ],
+            "3": [
+                "Häckspassage",
+                "Rytmiska häckhopp",
+                "Hopp över flera häckar",
+                "Lekfulla häckövningar"
+            ],
+            "4": [
+                "Häckspassage med rytm",
+                "Hoppteknik",
+                "Korta häcklöpningar",
+                "Lekfulla tävlingsformer"
+            ]
+        },
+        "10-12": {
+            "1": [
+                "Förbensteknik",
+                "Bakbensteknik",
+                "Häckspassage",
+                "Rytmträning"
+            ],
+            "2": [
+                "Häckspassage med teknik",
+                "Rytmiska häcklöpningar",
+                "Hopp över flera häckar",
+                "Teknikträning"
+            ],
+            "3": [
+                "Häckspassage i sekvens",
+                "Rytmträning",
+                "Hoppteknik",
+                "Korta häcklöpningar"
+            ],
+            "4": [
+                "Häckspassage med rytm",
+                "Teknikträning",
+                "Hopp över flera häckar",
+                "Längre häcklöpningar"
+            ]
+        },
+        "13-15": {
+            "1": [
+                "Avancerad förbensteknik",
+                "Avancerad bakbensteknik",
+                "Häckspassage med teknik",
+                "Rytmträning"
+            ],
+            "2": [
+                "Häckspassage i sekvens",
+                "Teknikträning",
+                "Hopp över flera häckar",
+                "Rytmiska häcklöpningar"
+            ],
+            "3": [
+                "Häckspassage med rytm",
+                "Teknikträning",
+                "Hopp över flera häckar",
+                "Längre häcklöpningar"
+            ],
+            "4": [
+                "Häckspassage med teknik",
+                "Rytmträning",
+                "Hopp över flera häckar",
+                "Tävlingsform häcklöpning"
+            ]
+        }
+    },
+    "Längdhopp": {
+        "7-9": {
+            "1": [
+                "Vristhopp",
+                "Jämnfota hopp över häckar",
+                "Jämnfota hopp upp för trappor",
+                "Enbenshopp mellan mattor",
+                "Hopp upp på låg plint"
+            ],
+            "2": [
+                "Stafettlöpning",
+                "Roliga koordinationslekar",
+                "Hopp över låga hinder",
+                "Lekfulla hoppövningar"
+            ],
+            "3": [
+                "Hinderbana",
+                "Tagg-lekar",
+                "Hopp över olika hinder",
+                "Lekfulla hoppövningar"
+            ],
+            "4": [
+                "Balansövningar",
+                "Tekniklöpning",
+                "Enkla hoppövningar",
+                "Lekfulla hopptävlingar"
+            ]
+        },
+        "10-12": {
+            "1": [
+                "Anloppsträning",
+                "Sprintstarter",
+                "Stegringslopp",
+                "Anlopp med markeringar"
+            ],
+            "2": [
+                "Accelerationsträning",
+                "Sprintmekanik",
+                "Anloppsteknik",
+                "Stegringslopp"
+            ],
+            "3": [
+                "Sprint uppförsbacke",
+                "Tidtagning",
+                "Anlopp med teknik",
+                "Stegringslopp"
+            ],
+            "4": [
+                "Stafettväxlingar",
+                "Teknikövningar",
+                "Anlopp med hopp",
+                "Hoppteknikträning"
+            ]
+        },
+        "13-15": {
+            "1": [
+                "Blockstarter",
+                "Maximala sprintlopp",
+                "Anloppsträning",
+                "Stegringslopp"
+            ],
+            "2": [
+                "Plyometriska övningar",
+                "Sprintfaser",
+                "Hoppkraftutveckling",
+                "Explosivitetsträning"
+            ],
+            "3": [
+                "Snabbhetsuthållighet",
+                "Kurvsprint",
+                "Anlopp med teknik",
+                "Hoppteknikträning"
+            ],
+            "4": [
+                "Reaktionsövningar",
+                "Sprintteknikanalys",
+                "Hoppteknikanalys",
+                "Videoanalys"
+            ]
+        }
+    },
+    "Kulstötning": {
+        "7-9": {
+            "1": [
+                "Lekfulla sprintlekar",
+                "Korta sprintlopp",
+                "Kastövningar med lätta bollar",
+                "Grundläggande kaströrelser"
+            ],
+            "2": [
+                "Stafettlöpning",
+                "Roliga koordinationslekar",
+                "Kastövningar",
+                "Lekfulla kastlekar"
+            ],
+            "3": [
+                "Hinderbana",
+                "Tagg-lekar",
+                "Kastövningar med olika redskap",
+                "Lekfulla kastövningar"
+            ],
+            "4": [
+                "Balansövningar",
+                "Tekniklöpning",
+                "Grundläggande kastteknik",
+                "Lekfulla kasttävlingar"
+            ]
+        },
+        "10-12": {
+            "1": [
+                "Flygande sprintlopp",
+                "Sprintstarter",
+                "Grundläggande kastteknik",
+                "Kastövningar med lätta kulor"
+            ],
+            "2": [
+                "Accelerationsträning",
+                "Sprintmekanik",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "3": [
+                "Sprint uppförsbacke",
+                "Tidtagning",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "4": [
+                "Stafettväxlingar",
+                "Teknikövningar",
+                "Kastteknikträning",
+                "Styrketräning"
+            ]
+        },
+        "13-15": {
+            "1": [
+                "Blockstarter",
+                "Maximala sprintlopp",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "2": [
+                "Plyometriska övningar",
+                "Sprintfaser",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "3": [
+                "Snabbhetsuthållighet",
+                "Kurvsprint",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "4": [
+                "Reaktionsövningar",
+                "Sprintteknikanalys",
+                "Kastteknikanalys",
+                "Videoanalys"
+            ]
+        }
+    },
+    "Höjdhopp": {
+        "7-9": {
+            "1": [
+                "Vristhopp",
+                "Jämnfota hopp över häckar",
+                "Jämnfota hopp upp för trappor",
+                "Enbenshopp mellan mattor",
+                "Hopp upp på låg plint"
+            ],
+            "2": [
+                "Stafettlöpning",
+                "Roliga koordinationslekar",
+                "Hopp över låga hinder",
+                "Lekfulla hoppövningar"
+            ],
+            "3": [
+                "Hinderbana",
+                "Tagg-lekar",
+                "Hopp över olika hinder",
+                "Lekfulla hoppövningar"
+            ],
+            "4": [
+                "Balansövningar",
+                "Tekniklöpning",
+                "Enkla hoppövningar",
+                "Lekfulla hopptävlingar"
+            ]
+        },
+        "10-12": {
+            "1": [
+                "Anloppsträning",
+                "Sprintstarter",
+                "Stegringslopp",
+                "Anlopp med markeringar"
+            ],
+            "2": [
+                "Accelerationsträning",
+                "Sprintmekanik",
+                "Anloppsteknik",
+                "Stegringslopp"
+            ],
+            "3": [
+                "Sprint uppförsbacke",
+                "Tidtagning",
+                "Anlopp med teknik",
+                "Stegringslopp"
+            ],
+            "4": [
+                "Stafettväxlingar",
+                "Teknikövningar",
+                "Anlopp med hopp",
+                "Hoppteknikträning"
+            ]
+        },
+        "13-15": {
+            "1": [
+                "Blockstarter",
+                "Maximala sprintlopp",
+                "Anloppsträning",
+                "Stegringslopp"
+            ],
+            "2": [
+                "Plyometriska övningar",
+                "Sprintfaser",
+                "Hoppkraftutveckling",
+                "Explosivitetsträning"
+            ],
+            "3": [
+                "Snabbhetsuthållighet",
+                "Kurvsprint",
+                "Anlopp med teknik",
+                "Hoppteknikträning"
+            ],
+            "4": [
+                "Reaktionsövningar",
+                "Sprintteknikanalys",
+                "Hoppteknikanalys",
+                "Videoanalys"
+            ]
+        }
+    },
+    "Spjut": {
+        "7-9": {
+            "1": [
+                "Lekfulla sprintlekar",
+                "Korta sprintlopp",
+                "Kastövningar med lätta redskap",
+                "Grundläggande kaströrelser"
+            ],
+            "2": [
+                "Stafettlöpning",
+                "Roliga koordinationslekar",
+                "Kastövningar",
+                "Lekfulla kastlekar"
+            ],
+            "3": [
+                "Hinderbana",
+                "Tagg-lekar",
+                "Kastövningar med olika redskap",
+                "Lekfulla kastövningar"
+            ],
+            "4": [
+                "Balansövningar",
+                "Tekniklöpning",
+                "Grundläggande kastteknik",
+                "Lekfulla kasttävlingar"
+            ]
+        },
+        "10-12": {
+            "1": [
+                "Flygande sprintlopp",
+                "Sprintstarter",
+                "Grundläggande kastteknik",
+                "Kastövningar med lätta spjut"
+            ],
+            "2": [
+                "Accelerationsträning",
+                "Sprintmekanik",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "3": [
+                "Sprint uppförsbacke",
+                "Tidtagning",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "4": [
+                "Stafettväxlingar",
+                "Teknikövningar",
+                "Kastteknikträning",
+                "Styrketräning"
+            ]
+        },
+        "13-15": {
+            "1": [
+                "Blockstarter",
+                "Maximala sprintlopp",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "2": [
+                "Plyometriska övningar",
+                "Sprintfaser",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "3": [
+                "Snabbhetsuthållighet",
+                "Kurvsprint",
+                "Kastteknikträning",
+                "Styrketräning"
+            ],
+            "4": [
+                "Reaktionsövningar",
+                "Sprintteknikanalys",
+                "Kastteknikanalys",
+                "Videoanalys"
+            ]
+        }
+    },
+    "Fyspass": {
+        "7-9": {
+            "1": [
+                "Ormen på madrass",
+                "Banankull",
+                "Hav, skepp och land",
+                "'Idioten'"
+            ],
+            "2": [
+                "Stafettlöpning",
+                "Roliga koordinationslekar",
+                "Lekfulla styrkeövningar",
+                "Rörelselekar"
+            ],
+            "3": [
+                "Hinderbana",
+                "Tagg-lekar",
+                "Lekfulla konditionsövningar",
+                "Rörelselekar"
+            ],
+            "4": [
+                "Balansövningar",
+                "Tekniklöpning",
+                "Lekfulla styrkeövningar",
+                "Rörelselekar"
+            ]
+        },
+        "10-12": {
+            "1": [
+                "Flygande sprintlopp",
+                "Sprintstarter",
+                "Kroppsviktsövningar",
+                "Grundläggande styrketräning"
+            ],
+            "2": [
+                "Accelerationsträning",
+                "Sprintmekanik",
+                "Kroppsviktsövningar",
+                "Styrketräning"
+            ],
+            "3": [
+                "Sprint uppförsbacke",
+                "Tidtagning",
+                "Konditionsträning",
+                "Styrketräning"
+            ],
+            "4": [
+                "Stafettväxlingar",
+                "Teknikövningar",
+                "Konditionsträning",
+                "Styrketräning"
+            ]
+        },
+        "13-15": {
+            "1": [
+                "Blockstarter",
+                "Maximala sprintlopp",
+                "Styrketräning",
+                "Konditionsträning"
+            ],
+            "2": [
+                "Plyometriska övningar",
+                "Sprintfaser",
+                "Styrketräning",
+                "Konditionsträning"
+            ],
+            "3": [
+                "Snabbhetsuthållighet",
+                "Kurvsprint",
+                "Konditionsträning",
+                "Styrketräning"
+            ],
+            "4": [
+                "Marklyft",
+                "Bronco-test",
+                "Beep-test",
+                "Konditionstester"
+            ]
+        }
+    }
+}
